@@ -4,7 +4,11 @@ function Hero() {
   return (
     <div className="container">
       <div className="row p-5 mt-5 mb-5">
+<<<<<<< HEAD
         <img src = '/media/images/homeHero.png'alt ='Hero image'/>
+=======
+        <img src = 'media/images/homeHero.png'alt ='Hero image'/>
+>>>>>>> ea022d7e48cb12b2b152967ef3743540090c3899
         <h1 className="fs-2 text-center">
           We pioneered the discount broking model in India
           <br />

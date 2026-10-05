@@ -12,7 +12,11 @@ function Pricing() {
           </p>
           <a href="" style={{ textDecoration: "none" }}>
             See Pricing{" "}
+<<<<<<< HEAD
             <i className="fa fa-long-arrow-right" aria-hidden="true"></i>
+=======
+            <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
+>>>>>>> ea022d7e48cb12b2b152967ef3743540090c3899
           </a>
         </div>
         <div className="col-2"></div>

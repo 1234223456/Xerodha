@@ -12,7 +12,11 @@ function Hero() {
           Check out our{" "}
           <a href="" style={{ textDecoration: "none" }}>
             investment offerings{" "}
+<<<<<<< HEAD
             <i className="fa fa-long-arrow-right" aria-hidden="true"></i>
+=======
+            <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
+>>>>>>> ea022d7e48cb12b2b152967ef3743540090c3899
           </a>
         </p>
       </div>
